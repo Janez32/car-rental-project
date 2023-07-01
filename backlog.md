@@ -28,9 +28,13 @@ Initial requirements:
   - available car list
   - contact info/ page for common questions
   - advertisements
-    - a banner section to sell adv spots for google 
+    - a banner section to sell adv spots for Google 
 - payment
   - payment options available for clients
   - pay on collect would remove the need users to have separate page though
   
 - And one of those pop-up windows when users starts scrolling back up
+
+Done:
+FE module
+BE module
