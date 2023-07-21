@@ -36,5 +36,17 @@ public class ClientDataInitializer implements CommandLineRunner {
                 .build();
 
         clientRepository.save(client);
+
+
+        //       Car car = Car.builder()
+//           .brand("VOLVO")
+//           .model("S60")
+//           .productionYear(YearMonth.of(2022, Month.APRIL))
+//           .color(Color.BLACK)
+//           .available(true)
+//           .priceList()
+//           .build();
+//
+//       carRepository.save(car);
     }
 }
